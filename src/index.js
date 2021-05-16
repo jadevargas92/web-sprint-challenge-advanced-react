@@ -1,3 +1,5 @@
+//Testing if Code Grade is working
+
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
